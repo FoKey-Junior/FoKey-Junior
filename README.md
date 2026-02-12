@@ -49,12 +49,6 @@
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
-<!-- Backend -->
-<div style="margin-bottom: 0.5rem;">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens">
-</div>
-
 <br>
 
 <!-- Databases -->
