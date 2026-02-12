@@ -20,27 +20,31 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fokey)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fokey_bobrik)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Comfortable_Ad9715)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:DaniilKravchenko2009@yandex.ru)  
-
----
-
-## 💻 Tech Stack
-
-- **Core & Systems:** C, C++, Rust, AssemblyScript  
-- **🐧 Linux & Scripting:** Bash Script, PowerShell, Nix, Lua  
-- **⚙ Backend:** NodeJS, JWT, Python  
-- **🌐 Frontend:** HTML5, CSS3, SASS, JavaScript, TypeScript, React, Next JS, Bootstrap  
-- **🗄 Databases:** Postgres, MySQL, MongoDB  
-- **🖥 Desktop & Other:** Qt, Tauri  
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://discord.gg/fokey"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+  <a href="https://instagram.com/fokey_bobrik"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://reddit.com/user/Comfortable_Ad9715"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a>
+  <a href="mailto:DaniilKravchenko2009@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+<ul style="list-style: none; padding-left: 0; text-align: left;">
+<li><strong>Core & Systems:</strong> C, C++, Rust, AssemblyScript</li>
+<li><strong>Linux & Scripting:</strong> Bash Script, PowerShell, Nix, Lua</li>
+<li><strong>Backend:</strong> NodeJS, JWT, Python</li>
+<li><strong>Frontend:</strong> HTML5, CSS3, SASS, JavaScript, TypeScript, React, Next JS, Bootstrap</li>
+<li><strong>Databases:</strong> Postgres, MySQL, MongoDB</li>
+<li><strong>Desktop & Other:</strong> Qt, Tauri</li>
+</ul>
+
+---
+
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=FoKey-Junior&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FoKey-Junior&theme=dark&hide_border=true)<br/>
