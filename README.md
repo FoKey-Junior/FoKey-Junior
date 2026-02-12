@@ -1,18 +1,18 @@
 <div align="center">
 
-<table>
+<!-- Блок "Обо мне" -->
+<table style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 0;">
 <tr>
-<td align="left">
+<td align="left" style="padding-right: 20px; vertical-align: top;">
 
 ## Немножечко обо мне :3
-
 Я 16-летний студент первого курса Computer Science из Донбасса.
 
 Мне интересно разбираться, как устроены системы на глубоком уровне: управление памятью, многопоточность, сетевые протоколы и криптография,  
 Основной язык: C++, работаю в Linux и стараюсь писать решения не просто рабочие, а технически продуманные и эффективные.
 
 </td>
-<td valign="top">
+<td valign="top" style="border: none;">
 <img src="https://github.com/user-attachments/assets/cc97e2ff-9c79-46d1-a9b5-8a09c960be3c" style="height:100%; max-height:200px;" />
 </td>
 </tr>
@@ -20,34 +20,57 @@
 
 ---
 
+## Tech Stack
+
+<br>
+<div style="text-align: left;">
+
+<strong>Core & Systems:</strong> 
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
+
+<strong>Linux & Scripting:</strong> 
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white">
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+
+<strong>Backend:</strong> 
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+<strong>Frontend:</strong> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<strong>Databases:</strong> 
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<strong>Desktop & Other:</strong> 
+<img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
+<img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF">
+
+</div>
+<br>
+
 ## Socials
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+<br>
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://discord.gg/fokey"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
   <a href="https://instagram.com/fokey_bobrik"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://reddit.com/user/Comfortable_Ad9715"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a>
   <a href="mailto:DaniilKravchenko2009@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </div>
-
----
-
-## Tech Stack
-
-<ul style="list-style: none; padding-left: 0; text-align: left;">
-<li><strong>Core & Systems:</strong> C, C++, Rust, AssemblyScript</li>
-<li><strong>Linux & Scripting:</strong> Bash Script, PowerShell, Nix, Lua</li>
-<li><strong>Backend:</strong> NodeJS, JWT, Python</li>
-<li><strong>Frontend:</strong> HTML5, CSS3, SASS, JavaScript, TypeScript, React, Next JS, Bootstrap</li>
-<li><strong>Databases:</strong> Postgres, MySQL, MongoDB</li>
-<li><strong>Desktop & Other:</strong> Qt, Tauri</li>
-</ul>
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=FoKey-Junior&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FoKey-Junior&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoKey-Junior&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
