@@ -5,10 +5,10 @@
 <td align="left" style="padding-right: 20px; vertical-align: top;">
 
 ## Немножечко обо мне :3
-Я 16-летний студент первого курса Computer Science из Донбасса.
+Я 16-летний студент первого курса Computer Science из Донбасса
 
 Мне интересно разбираться, как устроены системы на глубоком уровне: управление памятью, многопоточность, сетевые протоколы и криптография,  
-Основной язык: C++, работаю в Linux и стараюсь писать решения не просто рабочие, а технически продуманные и эффективные.
+Основной язык: C++, работаю в Linux и стараюсь писать решения не просто рабочие, а технически продуманные и эффективные
 
 </td>
 <td valign="top" style="border: none;">
@@ -19,20 +19,19 @@
 
 <h2 align="center">Технический стек и медиа</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; margin-top: 25px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 25px;">
 
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+  <div>
     <h3 style="margin-bottom: 10px; text-align: center;">Core & Systems</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
       <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+  <div>
     <h3 style="margin-bottom: 10px; text-align: center;">UI & Frontend</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
@@ -46,17 +45,15 @@
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+  <div>
     <h3 style="margin-bottom: 10px; text-align: center;">DevOps & Tools</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+  <div>
     <h3 style="margin-bottom: 10px; text-align: center;">Embedded & Hardware</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -64,17 +61,18 @@
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+  <div>
     <h3 style="margin-bottom: 10px; text-align: center;">Linux & Scripting</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
       <img src="https://img.shields.io/badge/nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" />
       <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+      <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+  <div>
     <h3 style="margin-bottom: 10px; text-align: center;">Databases</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -87,7 +85,7 @@
 
 <hr style="margin: 40px 0;">
 
-<h2 align="center">Socials</h2>
+<h2 align="center">Социальные сети</h2>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://discord.gg/fokey">
@@ -105,4 +103,3 @@
 </div>
 
 </div>
-
