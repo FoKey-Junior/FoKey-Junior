@@ -68,7 +68,6 @@
       <img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
       <img src="https://img.shields.io/badge/nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" />
       <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-      <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
     </div>
   </div>
 
