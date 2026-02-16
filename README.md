@@ -13,13 +13,6 @@
 Работаю в Linux и стараюсь писать решения не просто рабочие,  
 а технически продуманные и эффективные
 
-</td>
-<td valign="top" style="border: none;">
-    <img src="https://github.com/user-attachments/assets/cc97e2ff-9c79-46d1-a9b5-8a09c960be3c"/>
-</td>
-</tr>
-</table>
-
 <h2 align="center">Технический стек и медиа</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 25px;">
