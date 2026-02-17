@@ -19,8 +19,6 @@
   </p>
 </div>
 
-<hr style="margin: 40px 0;">
-
 <h2 align="center">Технический стек и медиа</h2>
 
 <div align="center">
@@ -72,8 +70,6 @@
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
 </div>
-
-<hr style="margin: 40px 0;">
 
 <h2 align="center">Социальные сети</h2>
 
