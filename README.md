@@ -19,6 +19,8 @@
   </p>
 </div>
 
+<hr style="margin: 40px 0;">
+
 <h2 align="center">Технический стек и медиа</h2>
 
 <div align="center">
