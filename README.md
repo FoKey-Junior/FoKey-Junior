@@ -17,6 +17,8 @@
     Работаю в Linux и стараюсь писать решения не просто рабочие,<br>
     а технически продуманные и эффективные
   </p>
+
+  <a href="https://leetcode.com/u/fokey-junior/">https://leetcode.com/u/fokey-junior/</a>
 </div>
 
 <h2 align="center">Технический стек и медиа</h2>
