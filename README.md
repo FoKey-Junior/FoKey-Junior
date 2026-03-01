@@ -14,11 +14,11 @@
 
   <p>
     <strong>Основной язык:</strong> C++<br>
-    Работаю в Linux и стараюсь писать решения не просто рабочие,<br>
-    а технически продуманные и эффективные
+    Работаю в Linux и стараюсь писать код не просто работающий,<br>
+    а продуманный, эффективный и технически грамотный. 
+    Можете посмотреть мои решения на 
+    <a href="https://leetcode.com/u/fokey-junior/" target="_blank">LeetCode</a>
   </p>
-
-  <a href="https://leetcode.com/u/fokey-junior/">https://leetcode.com/u/fokey-junior/</a>
 </div>
 
 <h2 align="center">Технический стек и медиа</h2>
