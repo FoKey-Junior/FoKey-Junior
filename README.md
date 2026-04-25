@@ -72,22 +72,3 @@
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
 </div>
-
-<h2 align="center">Социальные сети</h2>
-
-<div align="center">
-  <p>
-    <a href="https://discord.gg/fokey">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/fokey_bobrik">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-    </a>
-    <a href="https://reddit.com/user/Comfortable_Ad9715">
-      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
-    </a>
-    <a href="mailto:DaniilKravchenko2009@yandex.ru">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
