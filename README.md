@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cc97e2ff-9c79-46d1-a9b5-8a09c960be3c" width="220" style="border-radius: 12px;" />
-  
   <h2>Немножечко обо мне</h2>
 
   <p>
